@@ -1,0 +1,28 @@
+/* NavbarStyles.css */
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    gap: 20px; /* Adjust the gap value as needed */
+  }
+  
+  .navbar-brand .form-inline {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Adjust the gap value as needed */
+  }
+  
+  .form-inline .search-bar {
+    width: 2cm; /* Adjust the width as needed */
+    padding: 5px;
+    border: 1px solid #808080;
+    border-radius: 3px;
+  }
+  
+  .form-inline .search-bar::placeholder {
+    width: 2cm; /* Ensures the placeholder extends to 2cm */
+  }
+  
+  .search-icon {
+    font-size: 1.5em; /* Adjust the font size as needed */
+  }
+  

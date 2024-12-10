@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop A",
+      "price": 999.99,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "name": "Laptop B",
+      "price": 1299.99,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "name": "Laptop C",
+      "price": 899.99,
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+  

@@ -1,0 +1,38 @@
+.hero-section {
+    margin-bottom: 2rem;
+  }
+  
+  .products-section {
+    margin-bottom: 2rem;
+  }
+  
+  .latest-products-section {
+    margin-bottom: 2rem;
+  }
+  
+  .about-us-section {
+    background-color: #f8f9fa; /* Light grey background color */
+    padding: 2rem 0;
+  }
+  
+  .about-us-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .about-us-content h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .about-us-content p {
+    font-size: 1.1rem;
+    line-height: 1.5;
+  }
+  .service-icon {
+    width: 150px; /* Adjust width as needed */
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+    margin: 0 auto 10px auto; /* Center align and add margin below */
+  }
+  
+  
